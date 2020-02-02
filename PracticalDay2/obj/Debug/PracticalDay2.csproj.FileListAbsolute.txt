@@ -1,0 +1,7 @@
+C:\Users\msc2019659\source\repos\PracticalDay2\PracticalDay2\bin\Debug\PracticalDay2.exe.config
+C:\Users\msc2019659\source\repos\PracticalDay2\PracticalDay2\bin\Debug\PracticalDay2.exe
+C:\Users\msc2019659\source\repos\PracticalDay2\PracticalDay2\bin\Debug\PracticalDay2.pdb
+C:\Users\msc2019659\source\repos\PracticalDay2\PracticalDay2\obj\Debug\PracticalDay2.csprojAssemblyReference.cache
+C:\Users\msc2019659\source\repos\PracticalDay2\PracticalDay2\obj\Debug\PracticalDay2.csproj.CoreCompileInputs.cache
+C:\Users\msc2019659\source\repos\PracticalDay2\PracticalDay2\obj\Debug\PracticalDay2.exe
+C:\Users\msc2019659\source\repos\PracticalDay2\PracticalDay2\obj\Debug\PracticalDay2.pdb
